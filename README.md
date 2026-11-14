@@ -1,10 +1,16 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=심성욱의%20GitHub&fontSize=42" width="100%" />
+
+<div align="center">
+<h3>전기·설비 현장에서 AI로, 현장 사람과 AI를 잇는 도구를 만듭니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" /></h3>
+</div>
+
 ## 안녕하세요, 심성욱입니다
 
 전기를 전공하고 설비 현장을 거쳐, 지금은 AI로 현장 문제를 푸는 방법을 배우고 있습니다.
 
 2025년 여름 인도 첸나이 폭스콘에서 아이폰 17 생산 설비 셋업(PC 제어)을 할 때, 소프트웨어 문제가 생길 때마다 한국에서 고쳐 주기를 기다려야 했습니다. 그때부터 AI에게 코드를 물어보며 작은 프로그램을 만들기 시작했고, 2026년 7월부터 SK네트웍스 Family AI 캠프에서 직접 만들고 배포하고 있습니다.
 
-### 고정한 프로젝트
+## 📌 고정한 프로젝트
 
 | 프로젝트 | 무엇인가 | 결과 |
 |---|---|---|
@@ -15,15 +21,35 @@
 | [langchain-migration-helper](https://github.com/SKN35shimsungwook/langchain-migration-helper) | 구버전 LangChain 코드를 최신 버전으로 바꾸는 팀 챗봇 (저는 결과 화면과 성능 평가 담당) | 변환 통과율 0% → 57%, 실행 기준 87% |
 | [SKN35-4th-4Team](https://github.com/SKN35shimsungwook/SKN35-4th-4Team) | 위 챗봇을 Django·AWS로 옮긴 팀 프로젝트 (저는 화면과 발표 담당) | |
 
-### 요즘 관심 있는 것
+## 🛠 다루는 기술
+
+| 분류 | 기술 |
+|:---|:---|
+| **언어** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) |
+| **AI·에이전트** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
+| **화면·서버** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| **데이터베이스** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![TiDB](https://img.shields.io/badge/TiDB-DD0031?style=flat&logo=tidb&logoColor=white) ![Chroma](https://img.shields.io/badge/ChromaDB-FF6446?style=flat&logoColor=white) |
+| **배포·도구** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+| **현장** | ![PLC](https://img.shields.io/badge/PLC-GX_Works2-0A6EBD?style=flat) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![전기](https://img.shields.io/badge/전기에너지시스템-폴리텍-F2B705?style=flat) |
+
+## 📊 GitHub 활동
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%" alt="3D 잔디 그래프">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SKN35shimsungwook&theme=default&hide_border=true" height="165" alt="연속 기록" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SKN35shimsungwook&theme=default" height="165" alt="많이 쓴 언어" />
+</p>
+
+## 🔭 요즘 관심 있는 것
 
 - 현장에서 일하는 사람과 AI를 잇는 일: 기준과 매뉴얼을 근거와 함께 찾아 주는 도구
 - AI 결과 검증: 근거가 없는 수치는 통과시키지 않는 장치
 
-### 다루는 기술
-
-Python · Streamlit · Django · LangChain · LangGraph · SQLite · Supabase · Docker · AWS EC2 · Claude Code
-
-### 배운 점
+## 🌱 배운 점
 
 AI를 많이 쓰는 것과 잘 쓰는 것은 다르다는 것을 제 기록을 재 보고 알았습니다. 그래서 지금은 요청할 때 끝난 기준을 정하고, 결과는 근거로 확인하는 습관을 들이고 있습니다.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
